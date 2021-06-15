@@ -1,0 +1,10 @@
+C:\Users\Sabina\source\repos\TCP Communication\TCP Communication\bin\Debug\TCP Communication.exe.config
+C:\Users\Sabina\source\repos\TCP Communication\TCP Communication\bin\Debug\TCP Communication.exe
+C:\Users\Sabina\source\repos\TCP Communication\TCP Communication\bin\Debug\TCP Communication.pdb
+C:\Users\Sabina\source\repos\TCP Communication\TCP Communication\obj\Debug\TCP_Communication.Form1.resources
+C:\Users\Sabina\source\repos\TCP Communication\TCP Communication\obj\Debug\TCP_Communication.Properties.Resources.resources
+C:\Users\Sabina\source\repos\TCP Communication\TCP Communication\obj\Debug\TCP Communication.csproj.GenerateResource.cache
+C:\Users\Sabina\source\repos\TCP Communication\TCP Communication\obj\Debug\TCP Communication.csproj.CoreCompileInputs.cache
+C:\Users\Sabina\source\repos\TCP Communication\TCP Communication\obj\Debug\TCP Communication.exe
+C:\Users\Sabina\source\repos\TCP Communication\TCP Communication\obj\Debug\TCP Communication.pdb
+C:\Users\Sabina\source\repos\TCP Communication\TCP Communication\obj\Debug\TCP Communication.csprojAssemblyReference.cache
